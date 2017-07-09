@@ -32,7 +32,7 @@ google-analytics:
 
 # Disqus
 disqus:
-  id:               "kiko-plus"
+  id:               "indigorilla"
 
 # URL
 url:                "https://Indigorilla.github.io" # the base hostname & protocol for your site
