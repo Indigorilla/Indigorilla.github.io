@@ -109,9 +109,7 @@ url: "https://localhost:4000"
 ```yml
 baseurl: "/<branch-name>"
 ```
-```
-HI
-```
+
 ## Rakefile Usage
 
 ```bash
